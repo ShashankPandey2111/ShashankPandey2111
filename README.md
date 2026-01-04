@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hii I'm   Shashank Pandey Final year Btech student @SBU <br>Full Stack Developer | AI-ML Enthusiast| <br>Learning DevOps <br>
+👋 Hii I'm   Shashank Pandey <br> Final year Btech student @SBU <br>Full Stack Developer | AI-ML Enthusiast| <br>Learning DevOps <br>
 
  📫 Reach me : Email : Shashank.pandey.2111@gmail.com
 ## 🌐 Socials:
@@ -18,7 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShashankPandey2111&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 
 
 <!--
 **ShashankPandey2111/ShashankPandey2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
