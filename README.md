@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hii I'm   Shashank Pandey <br> Final year Btech student @SBU <br>Full Stack Developer | AI-ML Enthusiast| <br>Learning DevOps <br>
+👋 <h3>Hii I'm   Shashank Pandey</h3> <br> Final year Btech student @SBU <br>Full Stack Developer | AI-ML Enthusiast| <br>Learning DevOps <br> 
+<h3>Awards : <br> NPTEL Star Award  < br>   </h3>
 
  📫 Reach me : Email : Shashank.pandey.2111@gmail.com
 ## 🌐 Socials:
